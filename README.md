@@ -6,6 +6,14 @@
 
 Monthly NPS hovers near zero; the strongest drivers are app quality (+30.3) and product (+29.4), the main source of dissatisfaction is fees (−59.4).
 
+## Navigation
+
+- 📖 [Full case study on the portfolio site](https://nikitaboyarkin.github.io/en/projects/volta/nps/)
+- 🏦 [Parent project: volta-banking](https://github.com/NikitaBoyarkin/volta-banking)
+- 🧪 Related cases: [support-churn](https://github.com/NikitaBoyarkin/case-support-churn) · [churn](https://github.com/NikitaBoyarkin/case-churn)
+
+**On this page:** [Key results](#key-results) · [Situation](#situation) · [Task](#task) · [Actions](#actions) · [Result](#result) · [Recommendations](#recommendations) · [Charts](#charts) · [Dataset](#dataset) · [Quick start](#quick-start)
+
 ## Key results
 
 - NPS near zero — customers are neutral
